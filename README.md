@@ -194,7 +194,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[AICodeSlopMonitor](https://slopcodemonitor.ai/)** – Detects low-quality and AI-generated code patterns to help developers review and improve codebases.
 - **[SynthScan](https://github.com/marcoramilli/SynthScan)** – Scans codebases for AI-generated code patterns.
-- **[CodeRabbit](https://coderabbit.ai/)** – AI-driven contextual pull request reviews with actionable feedback.
+- **[CodeRabbit](https://coderabbit.ai/)** – AI-driven contextual pull req
+
+- **[AI Coding Tools Guide](https://ai-coding-tools-guide.vercel.app/)** – Compare AI coding tools by features, pricing, and use cases for developers.uest reviews with actionable feedback.
 - **[Sourcery](https://sourcery.ai/)** – AI code reviewer supporting 30+ languages.
 - **[Qodo (CodiumAI)](https://www.qodo.ai/)** – Code review and automated test generation platform.
 - **[Sweep](https://github.com/sweepai/sweep)** – AI agent for automating PR reviews and fixes.
